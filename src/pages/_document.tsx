@@ -13,7 +13,7 @@ export default function Document() {
         <meta property="og:description" content="Daily Joe Biden Quotes" />
         <meta
           property="og:image"
-          content="https://dailyjoebiden.vercel.app/public/images/joeog.png"
+          content="https://dailyjoebiden.vercel.app/images/joeog.png"
         />
         <meta property="twitter:card" content="summary_large_image" />
         <meta
@@ -24,7 +24,7 @@ export default function Document() {
         <meta property="twitter:description" content="Daily Joe Biden Quotes" />
         <meta
           property="twitter:image"
-          content="https://dailyjoebiden.vercel.app/public/images/joeog.png"
+          content="https://dailyjoebiden.vercel.app/images/joeog.png"
         />
 
         <body className="">

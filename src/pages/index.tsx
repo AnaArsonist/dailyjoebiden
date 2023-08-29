@@ -36,7 +36,7 @@ function Home() {
 
   return (
     <div className="h-screen w-screen flex items-center justify-center">
-      <div className="flex flex-col gap-y-6 justify-center items-center px-56">
+      <div className="flex flex-col gap-y-6 justify-center items-center px-6 md:px-20 lg:px-32 xl:px-56">
         <h1 className="text-4xl font-bold mr-2">Daily Joe Biden</h1>
         <img
           className="h-56 w-56 hover:animate-spin object-fill"
